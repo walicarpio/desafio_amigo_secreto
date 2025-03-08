@@ -3,3 +3,12 @@
 
 // CREANDO UN ARRAY PARA ALMACENAR LOS NOMBRES
 let amigos = [];
+
+// Declaración de las variables a utilizar
+let ulListaAmigos = document.getElementById("listaAmigos");
+let inputAmigo = document.getElementById("amigo");
+let nombre;
+let li;
+let indiceAleatorio;
+let amigoSecreto;
+let resultado;
