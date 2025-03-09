@@ -74,8 +74,8 @@ https://walicarpio.github.io/desafio_amigo_secreto/
 
 ## Licencia
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ## Agradecimiento
 
-* 
+* Mi más sinceros agradecimiento a todas y todos los instructores del Proyecto Alura Latam / ONE. Han sido una inagotable fuente de inspiración para recorrer este nuevo camino.
