@@ -58,9 +58,9 @@ Las funciones desarrolladas en esta App servirán para:
 
 ![imagen](https://github.com/user-attachments/assets/b4f3dd32-fe85-46eb-a1e0-3b635122ce0d)
 
-## Puedes encontrar y utilizar la aplicación Amigo Secreto en:
+## Puedes utilizar la aplicación Amigo Secreto en:
 
-_Mira **Deployment** para conocer como desplegar el proyecto.
+https://walicarpio.github.io/desafio_amigo_secreto/
 
 ## En el proyecto se utilizó
 
