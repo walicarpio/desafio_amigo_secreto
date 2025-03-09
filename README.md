@@ -2,9 +2,12 @@
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
+## Construido con
+## Descripción de su proyecto
+## Funcionalidades
+## Cómo pueden usarlo los usuarios
+## Donde los usuarios pueden encontrar el proyecto;
+_Mira **Deployment** para conocer como desplegar el proyecto.
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
