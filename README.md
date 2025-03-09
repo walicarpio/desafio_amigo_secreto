@@ -8,7 +8,7 @@ _Acá va un párrafo que describa lo que es el proyecto_
 ## Cómo pueden usarlo los usuarios
 ## Donde los usuarios pueden encontrar el proyecto;
 _Mira **Deployment** para conocer como desplegar el proyecto.
-## Construido con 🛠️
+## Construido con
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
@@ -16,15 +16,15 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
-## Autor ✒️
+## Autor
 
 * Eduardo Berrios - [walicarpio](https://github.com/walicarpio)
 
-## Licencia 📄
+## Licencia
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Agradecimiento 🎁
+## Agradecimiento
 
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
