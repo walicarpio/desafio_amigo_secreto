@@ -30,31 +30,33 @@ Las funciones desarrolladas en esta App servirán para:
 
 ## Modo de uso
 
-1° Se ingresa un nombre en el campo (input). Luego de presionar el botón <b>Añadir</b> el nombre será desplegado en una lista
+1° Ingresar un nombre en el campo (input)
+
+2° Presionar el botón <b>Añadir</b>. El nombre será desplegado en una lista
 
 ![ingresando nombres](https://github.com/user-attachments/assets/d0ae84e6-3fe3-47bc-8ab9-33f6fbf0f0eb)
 <br>
 
-2° Una vez ingresados todos los nombres entre los que se desea sortear, que se encuentran desplegados en la página, podemos realizar el sorteo presionando el botón <b>Sortear Amigo</b> 
+3° Ingresados los que se desean sortear, y que se encuentran desplegados en la página, se realiza el sorteo presionando el botón <b>Sortear Amigo</b> 
 
 ![listado de amigos preparados para sortear](https://github.com/user-attachments/assets/23587c8d-d73b-4482-a102-f2d10d5b2415)
 <br>
 
-3° Se muestra el resultado del nombre seleccionado
+4° Se muestra el resultado del nombre seleccionado
 
 ![amigo sorteado](https://github.com/user-attachments/assets/c04f8b24-4f8b-4fe2-bd1e-de5fcaa95f40)
 
-4° En el proceso se desplegarán alertas en pantalla en caso de que:
+5° En el proceso se desplegarán alertas en pantalla en caso de que:
 
-<b>El campo esté vacío y se presione el botón Añadir</b> 
+<b>- El campo esté vacío y se presione el botón Añadir</b> 
 
 ![imagen](https://github.com/user-attachments/assets/2fd04443-d6a3-4eb0-9c29-130bde127df9)
 
-<b>Se ingrese un nombre repetido (ya presente al array)</b> 
+<b>- Se ingrese un nombre repetido (ya presente al array)</b> 
 
 ![imagen](https://github.com/user-attachments/assets/cf88b64b-593c-4e7f-a0eb-d1cbedca4f46)
 
-<b>Se intente realizar el sorteo con menos de dos amigos</b> 
+<b>- Se intente realizar el sorteo con menos de dos amigos</b> 
 
 ![imagen](https://github.com/user-attachments/assets/b4f3dd32-fe85-46eb-a1e0-3b635122ce0d)
 
