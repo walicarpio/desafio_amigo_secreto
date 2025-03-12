@@ -1,5 +1,6 @@
 <h1> Desafío "Amigo Secreto" </h1>
 
+![insignia finalizacion](https://github.com/user-attachments/assets/a83293f5-2458-4fcb-8c9e-66f722145a5c) 
 ![imagen de página de inicio del proyecto](https://github.com/user-attachments/assets/f35d1ebc-b862-4e66-b3d7-84fcdd4b88be)
 
 El objetivo principal de este desafío es desarrollar habilidades en lógica de programación, en el contexto del <b>Curso de Practicando Lógica de Programación: Challenge Amigo secreto</b>, impartido por Alura Latam / ONE, enfocardo exclusivamente en construir la lógica del código JavaScript, poniendo en práctica conceptos fundamentales de lógica de programación como variables, condicionales, funciones, listas y lazos de repetición, aplicando de manera práctica los conocimientos adquiridos en diversos cursos.
